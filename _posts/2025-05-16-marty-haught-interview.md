@@ -1,6 +1,6 @@
 ---
 title: "Interview: Marty Haught"
-author: cotes
+author: travis
 date: 2025-05-16
 categories: ['Interview']
 tags: ['organizers']

@@ -1,6 +1,6 @@
 ---
 title: 'Working Session 1: Finding Organizers'
-author: cotes
+author: travis
 date: 2025-05-10
 categories: ['Working Session']
 tags: [research]

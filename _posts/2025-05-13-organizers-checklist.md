@@ -1,6 +1,6 @@
 ---
 title: "Working Session 2: Organizer's Checklist by Marty Haught"
-author: cotes
+author: travis
 date: 2025-05-13
 categories: ['Working Session']
 tags: [philosophizing]

@@ -1,6 +1,6 @@
 ---
 title: "Working Session 4: Jekyll Site, GPT Images, Name Change"
-author: cotes
+author: travis
 date: 2025-05-17
 categories: ['Working Session']
 tags: [working]

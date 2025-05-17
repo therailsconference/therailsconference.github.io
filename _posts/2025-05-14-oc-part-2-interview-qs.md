@@ -1,6 +1,6 @@
 ---
 title: "Working Session 3: Organizer's Checklist Part II and Interview Questions"
-author: cotes
+author: travis
 date: 2025-05-14
 categories: ['Working Session']
 tags: [philosophizing]
