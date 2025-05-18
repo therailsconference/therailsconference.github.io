@@ -6,6 +6,6 @@ categories: ['Working Session']
 tags: [philosophizing]
 ---
 
-{% include embed/youtube.html id='J9qbvQuDqhk' %}
+{% include embed/youtube.html id='AdFPlFPp79U' %}
 
 The one where I start finish going through the Organizer's Checklist by Marty Haught and start on interview questions for organizers
