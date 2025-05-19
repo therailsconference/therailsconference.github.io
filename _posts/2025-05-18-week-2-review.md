@@ -13,7 +13,8 @@ I had a really good conversation with Marty Haught. He has a ton of experience o
 
 Great quotes from the interview:
 - "when you think about the event, what’s the purpose of it? What are you trying to accomplish with it? What are the goals? And then from a programming standpoint, how do you meet those goals?"
-Takeaways
+
+Takeaways:
 - Guides and scholars has had a big impact. Can I do something similar?
 - I need to get more knowledge on possibly creating an entity for the event and figure out how taxes will work.
 - Sponsors and venue are two of the biggest things I need to tackle first
