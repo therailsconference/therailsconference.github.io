@@ -1,7 +1,7 @@
 ---
 title: "Interview: Jeremy Smith (Organizer)"
 author: travis
-date: 2025-05-29
+date: 2025-05-30
 categories: ['Interview']
 tags: ['organizers']
 ---
