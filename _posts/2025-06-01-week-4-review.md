@@ -1,3 +1,11 @@
+---
+title: "Week 4 Review"
+author: travis
+date: 2025-06-01
+categories: ['Weekly Review']
+tags: []
+---
+
 This week was another week with limited conference productivity because of weekend plans but I am still happy with what I accomplished. I did an interview with Jeremy Smith of Blue Ridge Ruby, set up an LLC, and reached out to a few prospective venues.
 
 ## Interview with Jeremy Smith
