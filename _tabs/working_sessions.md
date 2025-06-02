@@ -1,8 +1,0 @@
----
-# the default layout is 'page'
-icon: fas fa-computer
-layout: working_sessions
-order: 2
-title: Working Sessions
----
-
