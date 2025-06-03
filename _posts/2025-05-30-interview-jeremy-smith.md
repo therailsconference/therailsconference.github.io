@@ -10,9 +10,9 @@ tags: ['organizers']
 
 I interview Jeremy Smith about organizing conferences
 
-Transcript:
 
-WEBVTT
+
+Transcript:
 
 11
 00:00:53.300 --> 00:01:02.939
