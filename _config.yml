@@ -19,27 +19,24 @@ title: Building Blastoff Rails # the main title
 tagline: A blog about organizing a Rails conference # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feedk
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  A blog about building a rails conference for the very first time
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://therailsconference.github.io" # the base hostname & protocol for your site
 
-github:
-  username: therailsconference # change to your GitHub username
-
 twitter:
-  username: therailsconference # change to your Twitter username
+  username: blastoffrails # change to your Twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Travis Dockter
-  email: therailsconference@gmail.com # change to your email address
+  email: travis@blastoffrails.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    - https://twitter.com/blastoffrails # change to your Twitter homepage
+    # - https://github.com/username # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -59,7 +56,7 @@ webmaster_verifications:
 # Web Analytics Settings
 analytics:
   google:
-    id: # fill in your Google Analytics ID
+    id: G-YN5NEKDH2T
   goatcounter:
     id: # fill in your GoatCounter ID
   umami:
@@ -102,7 +99,7 @@ avatar: "assets/img/avatar.png"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
-social_preview_image: # string, local or CORS resources
+social_preview_image: "assets/img/social.png"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
