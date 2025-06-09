@@ -18,7 +18,7 @@ Transcript:
 Are you ready? I'm ready. Alright, sounds good. OK, so.
 
 00:45
-Just a quick introduction. You are Marni Haat. You are currently the director of Open Source at Ruby Central. You're also a long time organizer of Rocky Mountain Ruby, as well as Boulder Ruby, as well as RubyConf and RailsConf. Is that right? It is right. Okay, cool. And you just got...
+Just a quick introduction. You are Marty Haught. You are currently the director of Open Source at Ruby Central. You're also a long time organizer of Rocky Mountain Ruby, as well as Boulder Ruby, as well as RubyConf and RailsConf. Is that right? It is right. Okay, cool. And you just got...
 
 01:12
 back from a conference a couple of weeks ago, didn't you? Yeah, Ruby Kaigi in Japan. Okay. How was that? That was great. Fantastic. Yeah. Have you ever been to Japan before? Yeah, no, that was first time. Japan is super cool. It was very interesting. I was there for two weeks. So I enjoyed the food. I enjoyed just seeing everything there. I did some tourist stuff first to adjust to the new time zone. Yeah. And things are just so different over there. It's quite delightful.
