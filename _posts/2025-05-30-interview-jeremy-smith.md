@@ -4,6 +4,7 @@ author: travis
 date: 2025-05-30
 categories: ['Interview']
 tags: ['organizers']
+image: 'assets/img/post_images/jeremy.jpg'
 ---
 
 {% include embed/youtube.html id='7gqkWefx5cU' %}
