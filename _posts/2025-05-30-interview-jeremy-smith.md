@@ -9,11 +9,26 @@ image: 'assets/img/post_images/jeremy.jpg'
 
 {% include embed/youtube.html id='7gqkWefx5cU' %}
 
-I interview Jeremy Smith about organizing conferences
+Jeremy's Twitter: [https://x.com/jeremysmithco](https://x.com/jeremysmithco)
+
+Jeremy's Bluesky: [https://bsky.app/profile/jeremysmith.co](https://bsky.app/profile/jeremysmith.co)
+
+Jeremy's Rails studio: [https://hybrd.co/](https://hybrd.co/)
+
+I had a very inspiring talk with Jeremy and he gave me a lot to think about. A couple things that stood out to me:
+
+On delegating tasks to other people when organizing a conference (or doing anything difficult really) he said, “I think that works really well when you know what the job is to do. But if you’ve never done the job and you haven’t seen it done well, how do you even know what needs to be done?” This is something that I have really been struggling with. I know I will need help but how to get that help and have it be effective is tough for me (a sign I need to build this skill obviously).
+
+Make marketing materials for other conferences! He put out mailers with custom made stickers on them on tables at Railsconf (maybe) and people picked them up! This is something I can definitely do.
+
+When talking about getting sponsors the first time, especially when you don’t have a network to tap into, he said the best advice he got was: “…brand or the conference itself is not what you are selling, you are selling you.” This is a great point. Because I don’t have a history of organizing conferences or a wide network or social media following, the sponsors are really taking a chance on me. I need to convince them that I am the one that will make the conference successful, not the other way around. Ask the sponsors, “What do you need from me to make this successful?”
+
+One thing that he thinks made a big impact on him and the conference itself was the period at the very beginning where he gave people the chance to get on the mic and say something positive that happened to them in the Ruby community. That sounds so cool. I really want to steal this for my conference.
 
 
 
-Transcript:
+
+### Transcript:
 
 11
 00:00:53.300 --> 00:01:02.939
