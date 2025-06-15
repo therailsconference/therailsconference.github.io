@@ -8,11 +8,7 @@ image: 'assets/img/post_images/jasonc.png'
 description: Organizer of Southeast Ruby
 ---
 
-<!-- {% include embed/youtube.html id='' %} -->
-
-> Coming soon!
-{: .prompt-tip }
-
+{% include embed/youtube.html id='gX5VI25Z2ro' %}
 
 Jason's Blog: [https://www.jasoncharnes.com/](https://www.jasoncharnes.com/)
 
