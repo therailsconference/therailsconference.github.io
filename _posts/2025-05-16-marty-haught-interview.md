@@ -4,6 +4,7 @@ author: travis
 date: 2025-05-16
 categories: ['Interview']
 tags: ['organizers']
+description: Organizer of Rocky Mountain Ruby
 image: 'assets/img/post_images/marty.jpg'
 ---
 

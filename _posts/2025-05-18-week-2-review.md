@@ -4,6 +4,7 @@ author: travis
 date: 2025-05-18
 categories: ['Weekly Review']
 tags: []
+description: The Art of Gathering Information
 ---
 
 Hello all! I had a pretty good week here. Here are the main points
@@ -28,15 +29,6 @@ I didn't know this existed until this week and wow what a great resource. I will
 
 ### The Art of Gathering by Priya Parker
 Marty suggested this book in our interview and I just started it today but I am already enjoying it and it is getting my brain going on conference mode. I have never really read anything about organizing events like this so I am excited to see what other books are out there after I finish this one. I get a lot of ideas from reading so this is a good thing to do that I didn't really think of until Marty suggested it. Thanks Marty!
-
-
-
-### Working Sessions From This Week
-[Working Session 2](https://youtu.be/J9qbvQuDqhk)
-
-[Working Session 3](https://youtu.be/AdFPlFPp79U)
-
-[Working Session 4](https://youtu.be/tnXjWRP9zis)
 
 ### Interviews
 [Marty Haught](https://youtu.be/ZTjCfyZ3dWI)

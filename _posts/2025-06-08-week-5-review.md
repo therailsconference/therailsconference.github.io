@@ -1,3 +1,12 @@
+---
+title: "Week 5 Review"
+author: travis
+date: 2025-06-08
+categories: ['Weekly Review']
+tags: []
+description: Venues, Voids, and Very Little Movement
+---
+
 # Venues, Voids, and Very Little Movement
 
 This week felt like it was characterized by delays. Or maybe I am just impatient. I am really glad I decided to plan the conference 12 months out because I highly doubt I could do this in less time without life threatening stress levels. I think a year is a good amount of time to plan a conference. Of course it can be done in less, but a year feels right.

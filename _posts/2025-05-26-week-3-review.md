@@ -4,6 +4,7 @@ author: travis
 date: 2025-05-26
 categories: ['Weekly Review']
 tags: []
+description: It has a name
 ---
 
 This week wasn't very productive for conference organizing. My dad was visiting for Memorial Day weekend and we installed gutters and rain barrels on my house. I was still able to get in an informational interview thanks to Spike Ilacqua of Rocky Mountain Ruby and some small tasks here and there.

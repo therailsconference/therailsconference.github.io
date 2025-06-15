@@ -5,6 +5,7 @@ date: 2025-05-30
 categories: ['Interview']
 tags: ['organizers']
 image: 'assets/img/post_images/jeremy.jpg'
+description: Organizer of Blue Ridge Ruby
 ---
 
 {% include embed/youtube.html id='7gqkWefx5cU' %}

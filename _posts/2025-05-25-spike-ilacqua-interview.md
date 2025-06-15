@@ -4,11 +4,11 @@ author: travis
 date: 2025-05-25
 categories: ['Interview']
 tags: ['organizers']
+description: Organizer of Rocky Mountain Ruby
 ---
 
 {% include embed/youtube.html id='IqysuaDYMnA' %}
 
-I interview Spike Ilacqua about organizing conferences
 
 Transcript:
 
