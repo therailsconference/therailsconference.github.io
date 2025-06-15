@@ -18,6 +18,10 @@ Jason's Blog: [https://www.jasoncharnes.com/](https://www.jasoncharnes.com/)
 
 Jason's X: [https://www.x.com/jmcharnes](https://www.x.com/jmcharnes)
 
+Jason's Blog Post after the first year of Southeast Ruby: [https://jasoncharnes.com/organizing-southeast-ruby/](https://jasoncharnes.com/organizing-southeast-ruby/)
+
+Jason's conversation with Jason about conferences [https://www.codewithjason.com/podcast/10094963-134-behind-the-scenes-of-conference-organizing-with-jason-charnes/](https://www.codewithjason.com/podcast/10094963-134-behind-the-scenes-of-conference-organizing-with-jason-charnes/)
+
 
 
 Transcript
