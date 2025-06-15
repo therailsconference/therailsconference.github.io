@@ -4,12 +4,19 @@ author: travis
 date: 2025-05-16
 categories: ['Interview']
 tags: ['organizers']
+image: 'assets/img/post_images/marty.jpg'
 ---
 
 {% include embed/youtube.html id='ZTjCfyZ3dWI' %}
 
-I interview Marty Haught about organizing conferences
+Previous Organizer of Rocky Mountain Ruby
 
+Marty's Bluesky: [https://bsky.app/profile/mghaught.bsky.social](https://bsky.app/profile/mghaught.bsky.social)
+
+Marty's LinkedIn: [https://www.linkedin.com/in/martyhaught/](https://www.linkedin.com/in/martyhaught/)
+
+Marty Haught was the first person to say yes to a call, and I’m so grateful. We had a great conversation about what it means to organize your first conference, and he generously shared insights from his years of organizing.
+Thank you, Marty, for taking a Zoom call with a total stranger, and for your patience with my "um"s and "uh"s during my first ever interview!
 
 
 Transcript:
